@@ -1,4 +1,4 @@
-### Hi there 👋 !
+### hi there 👋 !
 my name is tolu and i'm a software engineer 💻 :cupid:
 
 - :snake: i'm a python (django) dev
