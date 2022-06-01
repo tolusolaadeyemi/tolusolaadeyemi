@@ -1,6 +1,7 @@
 ### Hi there 👋 !
 my name is tolu and i'm a software engineer 💻 :cupid:
 
+- :snake: i'm a python (django) dev
 - 🌱 i’m currently learning the MERN stack
 - :arrows_counterclockwise: i'm continuously practicing data structures and algorithms on [codesignal](https://codesignal.com)
 - :sparkles: i blog about my learning journey sometimes [here](https://tolusolaadeyemi.hashnode.dev/)
