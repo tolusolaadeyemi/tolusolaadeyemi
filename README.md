@@ -8,8 +8,9 @@ my name is tolu and i'm a software engineer 💻 :cupid:
 - :strawberry: pronouns: she/her
 - :mushroom: fun fact: i've watched the office in its entirety about 9x over :sweat_smile:
 
-### tech stack
+## :hammer_and_pick:tech stack
 # languages/frameworks/libraries and tools:
+![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})
 <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 <img src="{https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="{https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
