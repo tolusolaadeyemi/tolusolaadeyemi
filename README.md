@@ -9,7 +9,7 @@ my name is tolu and i'm a software engineer :woman_technologist: :cupid:
 - :mushroom: fun fact: i've watched the office in its entirety about 9x over :sweat_smile:
 
 ## :hammer_and_pick: tech stack
-### languages/frameworks/libraries and tools:
+### :loop: languages/frameworks/libraries and tools:
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
