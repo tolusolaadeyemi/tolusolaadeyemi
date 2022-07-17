@@ -1,5 +1,5 @@
 ## hi there 👋 !
-my name is tolu and i'm a software engineer 💻 :cupid:
+my name is tolu and i'm a software engineer 💻 :cupid: :woman_technologist: medium-dark skin tone
 
 - 🌱 i’m currently learning computer science fundamentals through [NYU's Tandon Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge).
 - :sparkles: i blog about my learning journey sometimes [here](https://tolusolaadeyemi.hashnode.dev/)
