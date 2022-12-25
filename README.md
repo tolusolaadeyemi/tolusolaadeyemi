@@ -1,7 +1,7 @@
 ## hi there 👋 !
 my name is tolu and i'm a software engineer :woman_technologist: :cupid: 
 
-- 🌱 i’m currently learning computer science fundamentals through [NYU's Tandon Bridge Program](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge).
+- 🌱 i’m currently learning financial technology fundamentals as a backend engineering trainee at flutterwave 🦋 .
 - :sparkles: i blog about my learning journey sometimes [here](https://tolusolaadeyemi.hashnode.dev/)
 - :space_invader: i’m looking to collaborate on open-source projects (with a focus on backend and/or technical writing)
 - 💌 dm me on twitter! @tolusolaadeyemi or email me: tolusa@hotmail.com
