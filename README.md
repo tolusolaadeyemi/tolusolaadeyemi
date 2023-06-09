@@ -3,7 +3,6 @@ my name is tolu and i'm a software engineer :woman_technologist: :cupid:
 
 - 🌱 i’m currently: learning & working as a backend engineering trainee at flutterwave 🦋 .
 - :sparkles: i blog about my learning journey sometimes [here](https://tolusolaadeyemi.hashnode.dev/)
-- :space_invader: i’m looking to collaborate on open-source projects (with a focus on backend and/or technical writing)
 - 💌 dm me on twitter! @tolusolaadeyemi or email me: tolusa@hotmail.com
 - :strawberry: pronouns: she/they
 - :mushroom: fun fact: i've watched the office in its entirety about 9x over :sweat_smile:
